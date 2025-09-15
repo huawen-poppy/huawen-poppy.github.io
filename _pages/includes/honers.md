@@ -1,0 +1,15 @@
+# 🏆 Honors and Awards
+- *2025.05* BESE Division Student Achievement Award for Best Research Publication, King Abdullah university of Science and Technology
+- *2025.04* BESE Dean’s Travel Award, King Abdullah University of Science and Technology
+- *2024.12* Top reviewer of NeurIPS 2024 (**<font color="#C00000">Top 8%</font>**)
+- *2017.10-2019.10* First-class Scholarship, Sun Yat-sen University (**<font color="#C00000">three consecutive years,Top 1%</font>**)
+- *2017.06* "Outstanding Graduates" of South China Normal University
+- *2016.10* Ye Shengtao Scholarship, South China Normal University (**<font color="#C00000">Top 1%</font>**)
+- *2016.04* Second Place in the Biochemistry Experiment Skills Competition, South China Normal University
+- *2015.11* Third Place in the Biochemistry Experiment Skills Competition, South China Normal University
+- *2015.10-2016.10* First-class Scholarship, South China Normal University (**<font color="#C00000">two consecutive years,Top 1%</font>**)
+- *2015.11* National Merit Scholarship, Ministry of Education of P.R.China (**<font color="#C00000">Top 1%</font>**)
+- *2015.06* First Place in the 8th Biochemistry Experiment Skills Competition for Guangdong College Students, Guangdong, China
+- *2015.05* Seventh Place in Women's Wushu Group A (Nanquan), Guangdong Provincial Universities Games, China
+- *2015.04* Third Place in the Experiment Design Competition, South China Normal University
+- *2014.11* Eighth Place in Women's Group A (Nanquan), Wushu Routine Championship for Guangdong University Students
