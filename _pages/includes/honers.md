@@ -13,3 +13,4 @@
 - *2015.05* Seventh Place in Women's Wushu Group A (Nanquan), Guangdong Provincial Universities Games, China
 - *2015.04* Third Place in the Experiment Design Competition, South China Normal University
 - *2014.11* Eighth Place in Women's Group A (Nanquan), Wushu Routine Championship for Guangdong University Students
+
