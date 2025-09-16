@@ -3,7 +3,7 @@
 - *2025.04* BESE Dean’s Travel Award, King Abdullah University of Science and Technology
 - *2024.12* Top reviewer of NeurIPS 2024 (**<font color="#C00000">Top 8%</font>**)
 - *2017.10-2019.10* First-class Scholarship, Sun Yat-sen University (**<font color="#C00000">three consecutive years,Top 1%</font>**)
-- *2017.06* "Outstanding Graduates" of South China Normal University
+- *2017.06* "Outstanding Graduates" of South China Normal University (**<font color="#C00000">Top 1%</font>**)
 - *2016.10* Ye Shengtao Scholarship, South China Normal University (**<font color="#C00000">Top 1%</font>**)
 - *2016.04* Second Place in the Biochemistry Experiment Skills Competition, South China Normal University
 - *2015.11* Third Place in the Biochemistry Experiment Skills Competition, South China Normal University
